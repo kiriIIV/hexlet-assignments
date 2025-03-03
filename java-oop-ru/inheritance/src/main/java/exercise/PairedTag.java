@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.List;
 
 // BEGIN
-public class PairedTag extends Tag{
+public class PairedTag extends Tag {
     private String body;
     private ArrayList<Tag> children;
 
